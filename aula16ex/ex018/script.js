@@ -11,7 +11,7 @@ function isNumero(n){
   }
 }
 
-function inLista(n, 1){
+function inLista(n , 1){
   if(l.indexOf(Number(n)) != -1){
     return true
   }else{
